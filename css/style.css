@@ -1,0 +1,16 @@
+html{
+    min-height: 100vh;
+}
+
+body {
+    background: linear-gradient(rgba(172, 5, 172, 0.712),lavenderblush);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight:bolder;
+}
+
+.unique {
+    font-size: 40px;
+}
